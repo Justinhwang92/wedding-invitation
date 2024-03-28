@@ -1,9 +1,7 @@
-# Web wedding invitation card for my friends - Sungwook & Unji
+# Web wedding invitation card for my friends 
 
 This is the wedding invation card using JavaScript, HTML, CSS, and Bootstrap.
 Web hosting by Github.
-
-<img src="images/pic1.jpeg">
 
 ## Congrats!!
 
